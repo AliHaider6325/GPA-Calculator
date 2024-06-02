@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.MainF {
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+    width: 100%;
+    /* Adjust as needed */
+    height: 100vh;
+    overflow: none;
+
+}
+
+.main {
+    width: 80%;
+    height: 500px;
+    background-image: url("calll.jpg");
+    background-size: cover;
+    color: white;
+    background-position: center;
+}
+
+.selecting {
+    padding: 10px;
+
+}
+
+select {
+    width: 250px;
+    height: 30px;
+    margin-top: 4px;
+    border-radius: 2px;
+}
+
+.Calculator {
+    padding: 20px;
+}
+
+.Courses {
+    display: inline-flex;
+    /* justify-content: space-evenly; */
+    flex-wrap: wrap;
+}
+
+p {
+    display: none;
+}
+
+.CalculateBtn {
+    display: block;
+    margin-top: 15px;
+    background-image: url("light-brown-wooden-textured-background_53876-75016.avif");
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+    border: none;
+}
+
+.Cong {
+    color: #0099FF;
+}
+
+.Cong {
+    width: 70%;
+    height: 400px;
+    background-color: #FFFF00;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 5px;
+}
+
+.navbar {
+    display: flex;
+    color: white;
+}
+
+img {
+    width: 50%;
+    height: 250px;
+}
+
+.result {
+    margin-top: 15px;
+    color: #0099FF;
+}
+
+.Remarks {
+    color: white;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+#Gpa {
+    color: #812EFF;
+}
+
+/* .MainS {
+    display: none;
+} */

@@ -1,0 +1,1 @@
+let calculatingDiv=document.getElementById("calculating");
